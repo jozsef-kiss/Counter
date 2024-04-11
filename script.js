@@ -14,7 +14,7 @@ let positiveNegative = document.querySelector(".counter").classList;
 document.querySelector(".counter").innerHTML = init;
 
 
-//Increase Callback Function
+//Create Callback Function
 function increase(){
     init++;
 }
